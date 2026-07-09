@@ -1,0 +1,57 @@
+%!Adobe-FontList 1.24
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumPen
+FamilyName:Nanum Pen Script
+StyleName:Regular
+FullName:Nanum Pen Script
+MenuName:나눔손글씨 펜
+StyleBits:0
+FamilyNameNative:나눔손글씨 펜
+StyleNameNative:Regular
+FullNameNative:나눔손글씨 펜
+WritingScript:Korean
+OutlineFileName:D:\서지민\브랜드 프로젝트\무드라마 웹사이트\Font\NanumPen.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:3548656
+FileModTime:1783473177
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nanum Pen Script
+NameArray:3,Mac,4,나눔손글씨 펜
+NameArray:0,Win,1,Nanum Pen Script
+NameArray:3,Win,1,나눔손글씨 펜
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ZTNature-Medium
+FamilyName:ZT Nature
+StyleName:Medium
+FullName:ZT Nature Medium
+MenuName:ZT Nature Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\서지민\브랜드 프로젝트\무드라마 웹사이트\Font\ZTNature-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:124364
+FileModTime:1782278921
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,ZT Nature Medium
+NameArray:0,Win,1,ZT Nature Med
+NameArray:0,Win,16,ZT Nature
+%EndFont
+
